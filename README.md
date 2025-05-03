@@ -50,20 +50,20 @@ The separate notebook contains instructions for the following tasks:
 
 # Installation & Running Instructions
 1. Clone the Repository
-git clone https://github.com/yourusername/loan-default-prediction.git
+git clone https:https://github.com/ranna-waleed/DSAI-305_Loan-Default-Prediction
 cd loan-default-prediction
 
-2. Set Up a Python Environment
+3. Set Up a Python Environment
 We recommend using Python 3.8+ and setting up a virtual environment:
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-3. Install Required Libraries
+4. Install Required Libraries
 pip install -r requirements.txt
 Note: If requirements.txt is not provided, install the key libraries manually:
 pip install pandas numpy scikit-learn xgboost lightgbm matplotlib seaborn shap lime tabnet
 
-4. Download the Dataset
+5. Download the Dataset
 Download Lending Club Loan Data from the official source or provided link (https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv?select=loan.csv)
 
-5. Run Notebooks
+6. Run Notebooks
