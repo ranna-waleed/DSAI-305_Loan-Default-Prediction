@@ -16,9 +16,9 @@ The prediction accuracy faces challenges because the dataset contains far more i
 # Models Implemented
 Training sessions for every model are present within single dedicated Notebook files which serve both for training and evaluation purposes along with explanation features.
 
-- Random Forest
-- Extra Trees Classifier
-- Gaussian Naive Bayes
+- Random Forest, Paper:https://ieeexplore.ieee.org/document/9336801
+- Extra Trees Classifier, Paper:https://doi.org/10.1016/j.ijcce.2023.09.001
+- Gaussian Naive Bayes, Paper:https://sci-hub.se/https://ieeexplore.ieee.org/abstract/document/7877200
 - Logistic Regression , Paper:https://eprints.lse.ac.uk/116375/1/rsos.191649.pdf?form=MG0AV3
 - TabNet, Paper:https://www.politesi.polimi.it/retrieve/275d883a-78a3-4206-a3a4-ae0a93d9a41a/Master_Thesis_Arnaldo_Mollo.pdf
 - XGBoost, Paper:  https://arxiv.org/pdf/2012.03749
